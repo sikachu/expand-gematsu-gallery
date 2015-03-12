@@ -6,6 +6,14 @@ through the [gallery photos] one by one?
 
 [gallery photos]: http://gematsu.com/gallery/
 
+### Before
+
+![Before](https://raw.githubusercontent.com/sikachu/expand-gematsu-gallery/master/assets/Before.png)
+
+### After
+
+![After](https://raw.githubusercontent.com/sikachu/expand-gematsu-gallery/master/assets/After.png)
+
 Usage
 -----
 
