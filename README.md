@@ -43,3 +43,5 @@ License
 -------
 
 The source code for this project is licensed under [MIT License].
+
+[MIT License]: https://github.com/sikachu/expand-gematsu-gallery/blob/master/LICENSE
