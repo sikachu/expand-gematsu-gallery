@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Expand Gematsu Gallery",
+  "description": "Expand all photos in gallery on Gematsu",
+  "author": "Prem Sichanugrist",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/sikachu/expand-gematsu-gallery",
+
+  "content_scripts": [
+    {
+      "matches": ["http://gematsu.com/gallery/*"],
+      "js": ["expand-gematsu-gallery.js"]
+    }
+  ]
+}
